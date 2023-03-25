@@ -1,4 +1,5 @@
 <?php 
+    // timezone設定
     date_default_timezone_set("Asia/Tokyo");
 
     $comment_array = array();
